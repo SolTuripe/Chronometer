@@ -6,6 +6,6 @@ You can play with the stopwatch here: https://solturipe.github.io/Stopwatch/
 
 ## Technologies
 
-* HTML
-* CSS
-* JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
